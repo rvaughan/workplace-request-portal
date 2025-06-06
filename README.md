@@ -1,2 +1,3 @@
-# workplace-request-portal
-A place to request time off and WFH arrangements
+# Workplace Request Portal
+
+A (sarcastic) site for requesting time off, or working from home periods.
